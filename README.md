@@ -7,11 +7,12 @@ A high-end, minimalist Pomodoro timer built with a stunning glassmorphism aesthe
 ## ✨ Features
 
 - **💎 Advanced Glassmorphism**: Frosted glass effects on all UI components including buttons and timer display.
-- **🌗 Dual Themes**: Seamlessly switch between a vibrant Dark mode and a clean Light mode.
+- **🌘 Dual Themes**: Seamlessly switch between a vibrant Dark mode and a clean Light mode.
+- **🎵 Sound Notifications**: Choose from 5 different alert sounds (Digital Bell, Zen Gong, Sci-Fi Pulse, Bird Chirp, Classic Beep).
+- **🖼️ Custom Backgrounds**: Personalize your focus space with any image URL and adjustable overlay intensity.
 - **⚡ Reactive UI**: Dynamic background gradients that follow your mouse movement.
 - **⚙️ Fully Customizable**: Adjust focus and break durations to match your workflow.
-- **🔊 Audio Cues**: Subtle notifications for session completion.
-- **💾 Persistence**: Automatically saves your preferences and theme (LocalStorage).
+- **💾 Persistence**: Automatically saves your preferences, theme, and background settings (LocalStorage).
 
 ## 🚀 Getting Started
 
