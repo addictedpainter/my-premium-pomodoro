@@ -2,7 +2,7 @@
 
 A high-end, minimalist Pomodoro timer built with a stunning glassmorphism aesthetic. Featuring dark/light mode, crystal-like buttons, and glowing timer digits.
 
-![Pomodoro Preview](https://raw.githubusercontent.com/username/repo/main/preview-dark.png) *Note: Replace with your actual screenshot after upload.*
+![Pomodoro Preview](https://raw.githubusercontent.com/addictedpainter/my-premium-pomodoro/main/preview-dark.png) *Note: Replace with your actual screenshot after upload.*
 
 ## ✨ Features
 
@@ -34,8 +34,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**kimko**
-- GitHub: [@kimko](https://github.com/kimko)
+**addictedpainter**
+- GitHub: [@addictedpainter](https://github.com/addictedpainter)
 
 ---
 *Made with ❤️ for peak productivity.*
